@@ -4,3 +4,4 @@ plotly==5.24.1  # inclui express e graph_objects
 matplotlib==3.8.4
 seaborn==0.13.2
 jupyter  # necessário para renderizações interativas com Plotly
+pycountry==24.6.1
